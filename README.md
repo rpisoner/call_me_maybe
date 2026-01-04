@@ -1,4 +1,4 @@
-*Este proyecto ha sido creado como parte del currículo de 42 por rpcla.*
+*Este proyecto ha sido creado como parte del currículo de 42 por rpisoner.*
 
 # Call Me Maybe - Function Calling in LLMs
 
@@ -44,3 +44,4 @@ make lint
 
 ## Estrategia de Pruebas
 (A completar)
+
